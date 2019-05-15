@@ -74,8 +74,7 @@ Files and data
 For more information
 -------------------------------------------------------------------------------
 
-* http://wiki.apertium.org/wiki/Installation
-* http://wiki.apertium.org/wiki/apertium-kgp
+* http://wiki.apertium.org/wiki/Installatio
 * http://wiki.apertium.org/wiki/Using_an_lttoolbox_dictionary
 
 Help and support
