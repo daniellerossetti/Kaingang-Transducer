@@ -1,0 +1,39 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../kgp.autogen.hfst
+    Morph: ../kgp.automorf.hfst
+Tests:
+  All:
+    tóg<subj>:
+    - tóg
+    tỹ<subj>:
+    - tỹ
+    mũ<v><tv><sg>:
+    - mũ
+    mỹ<post>:
+    - mỹ
+    ki<post>:
+    - ki
+    ẽprã<post>:
+    - ẽprã
+    ra<post>:
+    - ra
+    mré<post>:
+    - mré
+    kri<post>:
+    - kri
+    kã<post>:
+    - kã
+    mỹ<subj>:
+    - mỹ
+    ẽg<prn><p1><pl>:
+    - ẽg
+    vỹ<subj>:
+    - vỹ
+    ki<post>:
+    - ki
+    han<v><bas><iv>:
+    - han
+    jé<subj>:
+    - jé

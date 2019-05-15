@@ -1,0 +1,314 @@
+Old ambiguity:
+^he/he<v><bas><tv>/he\<ij\>$
+^jé/jé<subj>/jé<n>/mág<n>$
+^mỹ/mỹ<subj>/mỹ\<post\>$
+^tũ/tũ<n>/tũ<adv><adv2>$
+
+New ambiguity:
+B^ar/*ar$b^ante/*ante$
+^,/,<cm>$ b^aile/*aile$
+^,/,<cm>$ b^ola/*ola$
+^Ag/Ag<prn>/Ag<prn><p3><nf><pl>$
+^Ag/Ag<prn>/Ag<prn><p3><nf><pl>$ b^ola/*ola$
+^Clu/*Clu$b^e/e<mod>/e<v><iv>$
+^E/E<mod>/E<v><iv>$
+^Fa/Fa<v><tv><sg>/Fãn<v><v2><iv>$
+^Fag/Fag<prn>/Fag<prn><p3><f><pl>$
+^Fi/Fi<prn>/Fi<v><iv>/Fi<v><tv><sg>/Fi<prn><p3><f><sg>$
+^Ge/Ge<mod>/Ge<v><iv><pl>$
+^Gunhgunh/Gunhgunh<n>/Gunhgunh<v><tv><pl>$
+^He/He<ij>/He<v><tv>$
+^Hunh/Hunh<n>/Hunh<v><iv>$
+^Hẽ’/Hẽ’<mod>/Hẽ’<ij>$
+^Hỹn/Hỹn<mod>/Hỹn<o>$
+^Inh/Inh<prn>/Inh<prn><p1><sg>$
+^Isỹ/Isỹ<cir>$ ô^ni/*ni$b^us/*us$
+^Jẽn/Jẽn<v><iv>/Jẽn<v><tv>$
+^Karugmág/Karugmág<n>/Ka rug mág<n>$
+^Ke/Ke<n>/Ke<v><iv>$
+^Ker/Ker<mod>/Ker<n>/Ker<o>$
+^Kre/Kre<n>/Kre<v><tv><pl>$
+^Kren/Kren<mod>/Kren<v><iv><sg>/Kren<v><tv><sg>$
+^Krén/Krén<n>/Krén<v><tv>$
+^Kur/Kur<mod>/Kur<n>/Kur<o>$
+^Kyrũ/Kyrũ<n>/Kyrũ<n><sg>$
+^Kãkã/Kã kã<cir>/Kãkã<v><tv>$
+^Mé/Mé<mod>/Mé<n>$
+^Mũ/Mũ<a>/Mũ<v><iv><pl>$
+^Ne/Ne<su>/Ne<v><tv><sg>$
+^Nija/Nija<n>$ 19 ^ne/ne<su>/ne<v><tv><sg>$
+^Nija/Nija<n>$ 2 ^ne/ne<su>/ne<v><tv><sg>$
+^Nĩ/Nĩ<mod>/Nĩ<n>/Nĩ<a>/Nĩ<v><iv><sg>$
+^Nỹ/Nỹ<su>/Nỹ<a>$
+^P/*P$úb^lico/*lico$
+^Re/Re<n>/Re<v><iv><pl>$
+^Rán/Rán<n>/Rán<v><tv><sg>$
+^Rã/Rã<n>/Rã<cir>/Rã<v><iv>/Rã<v><iv><sg>$
+^Rãnhrãj/Rãnhrãj<n>/Rãnhrãj<v><iv>$
+^Rĩr/Rĩr<v><iv>/Rĩr<v><iv><sg>$
+^Se/Se<n>/Se<ij>/Se<v><tv><sg>$
+^Sá/Sá<mod>$b^ado/*ado$
+^Sór/Sór<mod>/Sór<n>/Sór<want>$
+^Ti/Ti<prn>/Ti<prn><p3><nf><sg>$
+^Topẽ/Topẽ<n>/Topẽ<n>$
+^Ty/Ty<n>/Ty<v><iv>$
+^Tãnh/Tãnh<n>/Tãnh<v><tv>$
+^Tó/Tó<n>/Tó<v><tv><sg>$
+^Tỹ/Tỹ<cir>/Tỹ<su>$
+^Vãgvã/Vãgvã<n>/Vãgvã<v><iv>$
+^Vãn/Vãn<n>/Vãn<v><tv><sg>$
+^Vãnh/Vãnh<mod>/Vãnh<n>/Vãnh<mod>+$
+^a/*a$b^ril/*ril$
+^ag/ag<prn>/ag<prn><p3><nf><pl>$
+^cesta/*cesta$ b^ásica/*ásica$
+^de/*de$ b^arro/*arro$
+^e/e<mod>/e<v><iv>$
+^fa/fa<v><tv><sg>/fãn<v><v2><iv>$
+^fag/fag<prn>/fag<prn><p3><f><pl>$
+^fi/fi<prn>/fi<v><iv>/fi<v><tv><sg>/fi<prn><p3><f><sg>$
+^fãg/fãg<v><tv>/fãn<v><v3><iv>$
+^ge/ge<mod>/ge<v><iv><pl>$
+^gunhgunh/gunhgunh<n>/gunhgunh<v><tv><pl>$
+^gág/gág<v><iv>/gág<v><tv><sg>$
+^gé/gé<mod>/gé<v><tv><pl>$
+^han/han<v><iv>/han<v><iv><sg>$
+^he/he<ij>/he<v><tv>$
+^hunh/hunh<n>/hunh<v><iv>$
+^hur/hur<mod>/hur<o>/hur<v><iv><sg>$
+^huri/huri<mod>/huri<o>$
+^hã/hã<mod>/hã<o>$
+^hẽ’/hẽ’<mod>/hẽ’<ij>$
+^hỹn/hỹn<mod>/hỹn<o>$
+^inh/inh<prn>/inh<prn><p1><sg>$
+^inhhã/inhhã<mod>/inhhã<o>$
+^jo/jo<cir>/jo<conj>$
+^jui/*jui$z ^hã/hã<mod>/hã<o>$
+^jynhkén/jynhkén<n>/jynhkén<v><iv>$
+^jãn/jãn<v><iv><sg>/jãn<v><tv><sg>$
+^jãvãnh/jãvãnh<mod>/jãvãnh<mod>+/jãvãnh<v><tv><sg>$
+^jé/jé<n>/jé<su>$
+^jũn/jũn<n>/jũn<v><tv>$
+^jẽ/jẽ<a>/jẽ<v><iv>/jẽ<v><iv><sg>$
+^jẽn/jẽn<v><iv>/jẽn<v><tv>$
+^jẽtẽn/jẽtẽn<v><tv>/jẽtẽn<v><tv><sg>$
+^kafãn/kafãn<v><iv><sg>/kafãn<v><tv><sg>$
+^kanér/kanér<n>/ka nér<n>$
+^kavag/ka vag<n>/kavag<v><tv><pl>$
+^ke/ke<n>/ke<v><iv>$
+^ker/ker<mod>/ker<n>/ker<o>$
+^kre/kre<n>/kre<v><tv><pl>$
+^kren/kren<mod>/kren<v><iv><sg>/kren<v><tv><sg>$
+^krenkren/krenkren<v><iv><pl>/krenkren<v><tv><pl>$
+^krén/krén<n>/krén<v><tv>$
+^kur/kur<mod>/kur<n>/kur<o>$
+^kygfãn/kygfãn<v><iv><pl>/kygfãn<v><tv><pl>$
+^kyrũ/kyrũ<n>/kyrũ<n><sg>$
+^kãkã/kã kã<cir>/kãkã<v><tv>$
+^kénh/kénh<v><iv>/kénh<v><tv>$
+^mro/mro<v><iv><sg>/mro<v><tv><sg>$
+^mãn/mãn<mod>/mãn<v><tv><sg>$
+^mé/mé<mod>/mé<n>$
+^mũ/mũ<a>/mũ<v><iv><pl>$
+^mẽ/mẽ<mod>/mẽ<v><tv>$
+^mỹr/mỹr<mod>/mỹr<o>$
+^ne/ne<su>/ne<v><tv><sg>$
+^nig/nig<n>/nig<v><tv><sg>$
+^nija/nija<n>$ 19 ^tỹ/tỹ<cir>/tỹ<su>$
+^novem/*novem$b^ro/ro<n>$
+^nón/nón<cir>/nón<v><tv><sg>$
+^nĩ/nĩ<mod>/nĩ<n>/nĩ<a>/nĩ<v><iv><sg>$
+^nỹ/nỹ<su>/nỹ<a>$
+^nỹtĩ/nỹtĩ<a>/nỹtĩ<v><iv>/nỹtĩ<v><iv><pl>$
+^pẽ/pẽ<mod>/pẽ<n>$
+^ra/ra<n>/ra<cir>$
+^re/re<n>/re<v><iv><pl>$
+^rán/rán<n>/rán<v><tv><sg>$
+^rã/rã<n>/rã<cir>/rã<v><iv>/rã<v><iv><sg>$
+^rãnhrãj/rãnhrãj<n>/rãnhrãj<v><iv>$
+^rĩnh mũ/rĩnh<v><tv><pl>/rĩnh mũ<v><tv><pl>$
+^rĩnh/rĩnh<v><tv><pl>/rĩnh<v><v2><tv>/rĩnh<v><tv>+$
+^rĩr/rĩr<v><iv>/rĩr<v><iv><sg>$
+^sa/sa<a>/sa<v><iv>$
+^se/se<n>/se<ij>/se<v><tv><sg>$
+^sir/sir<mod>/sir<o>$
+^sóg/sóg<n>/sóg<su>$
+^sór/sór<mod>/sór<n>/sór<want>$
+^te mũ/te<v><iv><pl>/te mũ<v><iv><pl>$
+^te tĩ/te<v><iv><sg>/te tĩ<v><iv><sg>$
+^ti/ti<prn>/ti<prn><p3><nf><sg>$
+^ti/ti<prn>/ti<prn><p3><nf><sg>$ b^olso/*olso$
+^ty/ty<n>/ty<v><iv>$
+^tá/tá<cir>$ b^ola/*ola$
+^tãnh/tãnh<n>/tãnh<v><tv>$
+^tãvĩn/tãvĩn<mod>/tãvĩn<v><tv>$
+^tó/tó<n>/tó<v><tv><sg>$
+^tógfĩn/tógfĩn<n>/tógfĩn<v><tv><sg>$
+^tũ/tũ<mod>/tũ<n>$
+^tỹ/tỹ<cir>/tỹ<su>$
+^tỹ/tỹ<cir>/tỹ<su>$ 10 ^ag/ag<prn>/ag<prn><p3><nf><pl>$
+^tỹ/tỹ<cir>/tỹ<su>$ 40 ^ki/ki<cir>$
+^tỹ/tỹ<cir>/tỹ<su>$ b^icicleta/*icicleta$
+^tỹ/tỹ<cir>/tỹ<su>$ b^ola/*ola$
+^tỹ/tỹ<cir>/tỹ<su>$ ô^ni/*ni$b^us/*us$
+^ve/ve<mod>/ve<n>/ve<v><iv>/ve<v><iv><sg>/ve<v><tv><sg>$
+^vo/vo<n>/vo<v><iv>$
+^vãgvã/vãgvã<n>/vãgvã<v><iv>$
+^vãn/vãn<n>/vãn<v><tv><sg>$
+^vãnh/vãnh<mod>/vãnh<n>/vãnh<mod>+$
+^Ã/Ã<prn>/Ã<prn><p2><sg>$
+^Ãjag/Ãjag<prn>/Ãjag<prn><p2><pl>$
+^Ón/Ón<v><iv>/Ón<v><iv><sg>$
+^ã/ã<prn>/ã<prn><p2><sg>$
+^ãjag/ãjag<prn>/ãjag<prn><p2><pl>$
+^ón/ón<v><iv>/ón<v><iv><sg>$
+^Ũn/Ũn<prn>/Ũn<dem>/Ũn<prn><rel>$
+^ũn/ũn<prn>/ũn<dem>/ũn<prn><rel>$
+^Ẽmĩ/Ẽmĩ<n>/Ẽmĩ<v><iv>$
+^ẽkrénh/ẽkrénh<v><iv>/ẽkrénh<v><iv>+$
+^ẽmĩ/ẽmĩ<n>/ẽmĩ<v><iv>$
+Ô^ni/*ni$b^us/*us$
+
+Real ambiguity:
+^Ag/Ag<prn>/Ag<prn><p3><nf><pl>$
+^E/E<mod>/E<v><iv>$
+^Fa/Fa<v><tv><sg>/Fãn<v><v2><iv>$
+^Fag/Fag<prn>/Fag<prn><p3><f><pl>$
+^Fi/Fi<prn>/Fi<v><iv>/Fi<v><tv><sg>/Fi<prn><p3><f><sg>$
+^Ge/Ge<mod>/Ge<v><iv><pl>$
+^Gunhgunh/Gunhgunh<n>/Gunhgunh<v><tv><pl>$
+^He/He<ij>/He<v><tv>$
+^Hunh/Hunh<n>/Hunh<v><iv>$
+^Hẽ’/Hẽ’<mod>/Hẽ’<ij>$
+^Hỹn/Hỹn<mod>/Hỹn<o>$
+^Inh/Inh<prn>/Inh<prn><p1><sg>$
+^Jẽn/Jẽn<v><iv>/Jẽn<v><tv>$
+^Karugmág/Karugmág<n>/Ka rug mág<n>$
+^Ke/Ke<n>/Ke<v><iv>$
+^Ker/Ker<mod>/Ker<n>/Ker<o>$
+^Kre/Kre<n>/Kre<v><tv><pl>$
+^Kren/Kren<mod>/Kren<v><iv><sg>/Kren<v><tv><sg>$
+^Krén/Krén<n>/Krén<v><tv>$
+^Kur/Kur<mod>/Kur<n>/Kur<o>$
+^Kyrũ/Kyrũ<n>/Kyrũ<n><sg>$
+^Kãkã/Kã kã<cir>/Kãkã<v><tv>$
+^Mé/Mé<mod>/Mé<n>$
+^Mũ/Mũ<a>/Mũ<v><iv><pl>$
+^Ne/Ne<su>/Ne<v><tv><sg>$
+^Nija/Nija<n>$ 19 ^ne/ne<su>/ne<v><tv><sg>$
+^Nija/Nija<n>$ 2 ^ne/ne<su>/ne<v><tv><sg>$
+^Nĩ/Nĩ<mod>/Nĩ<n>/Nĩ<a>/Nĩ<v><iv><sg>$
+^Nỹ/Nỹ<su>/Nỹ<a>$
+^Re/Re<n>/Re<v><iv><pl>$
+^Rán/Rán<n>/Rán<v><tv><sg>$
+^Rã/Rã<n>/Rã<cir>/Rã<v><iv>/Rã<v><iv><sg>$
+^Rãnhrãj/Rãnhrãj<n>/Rãnhrãj<v><iv>$
+^Rĩr/Rĩr<v><iv>/Rĩr<v><iv><sg>$
+^Se/Se<n>/Se<ij>/Se<v><tv><sg>$
+^Sór/Sór<mod>/Sór<n>/Sór<want>$
+^Ti/Ti<prn>/Ti<prn><p3><nf><sg>$
+^Topẽ/Topẽ<n>/Topẽ<n>$
+^Ty/Ty<n>/Ty<v><iv>$
+^Tãnh/Tãnh<n>/Tãnh<v><tv>$
+^Tó/Tó<n>/Tó<v><tv><sg>$
+^Tỹ/Tỹ<cir>/Tỹ<su>$
+^Vãgvã/Vãgvã<n>/Vãgvã<v><iv>$
+^Vãn/Vãn<n>/Vãn<v><tv><sg>$
+^Vãnh/Vãnh<mod>/Vãnh<n>/Vãnh<mod>+$
+^ag/ag<prn>/ag<prn><p3><nf><pl>$
+^e/e<mod>/e<v><iv>$
+^fa/fa<v><tv><sg>/fãn<v><v2><iv>$
+^fag/fag<prn>/fag<prn><p3><f><pl>$
+^fi/fi<prn>/fi<v><iv>/fi<v><tv><sg>/fi<prn><p3><f><sg>$
+^fãg/fãg<v><tv>/fãn<v><v3><iv>$
+^ge/ge<mod>/ge<v><iv><pl>$
+^gunhgunh/gunhgunh<n>/gunhgunh<v><tv><pl>$
+^gág/gág<v><iv>/gág<v><tv><sg>$
+^gé/gé<mod>/gé<v><tv><pl>$
+^han/han<v><iv>/han<v><iv><sg>$
+^he/he<ij>/he<v><tv>$
+^hunh/hunh<n>/hunh<v><iv>$
+^hur/hur<mod>/hur<o>/hur<v><iv><sg>$
+^huri/huri<mod>/huri<o>$
+^hã/hã<mod>/hã<o>$
+^hẽ’/hẽ’<mod>/hẽ’<ij>$
+^hỹn/hỹn<mod>/hỹn<o>$
+^inh/inh<prn>/inh<prn><p1><sg>$
+^inhhã/inhhã<mod>/inhhã<o>$
+^jo/jo<cir>/jo<conj>$
+^jynhkén/jynhkén<n>/jynhkén<v><iv>$
+^jãn/jãn<v><iv><sg>/jãn<v><tv><sg>$
+^jãvãnh/jãvãnh<mod>/jãvãnh<mod>+/jãvãnh<v><tv><sg>$
+^jé/jé<n>/jé<su>$
+^jũn/jũn<n>/jũn<v><tv>$
+^jẽ/jẽ<a>/jẽ<v><iv>/jẽ<v><iv><sg>$
+^jẽn/jẽn<v><iv>/jẽn<v><tv>$
+^jẽtẽn/jẽtẽn<v><tv>/jẽtẽn<v><tv><sg>$
+^kafãn/kafãn<v><iv><sg>/kafãn<v><tv><sg>$
+^kanér/kanér<n>/ka nér<n>$
+^kavag/ka vag<n>/kavag<v><tv><pl>$
+^ke/ke<n>/ke<v><iv>$
+^ker/ker<mod>/ker<n>/ker<o>$
+^kre/kre<n>/kre<v><tv><pl>$
+^kren/kren<mod>/kren<v><iv><sg>/kren<v><tv><sg>$
+^krenkren/krenkren<v><iv><pl>/krenkren<v><tv><pl>$
+^krén/krén<n>/krén<v><tv>$
+^kur/kur<mod>/kur<n>/kur<o>$
+^kygfãn/kygfãn<v><iv><pl>/kygfãn<v><tv><pl>$
+^kyrũ/kyrũ<n>/kyrũ<n><sg>$
+^kãkã/kã kã<cir>/kãkã<v><tv>$
+^kénh/kénh<v><iv>/kénh<v><tv>$
+^mro/mro<v><iv><sg>/mro<v><tv><sg>$
+^mãn/mãn<mod>/mãn<v><tv><sg>$
+^mé/mé<mod>/mé<n>$
+^mũ/mũ<a>/mũ<v><iv><pl>$
+^mẽ/mẽ<mod>/mẽ<v><tv>$
+^mỹr/mỹr<mod>/mỹr<o>$
+^ne/ne<su>/ne<v><tv><sg>$
+^nig/nig<n>/nig<v><tv><sg>$
+^nija/nija<n>$ 19 ^tỹ/tỹ<cir>/tỹ<su>$
+^nón/nón<cir>/nón<v><tv><sg>$
+^nĩ/nĩ<mod>/nĩ<n>/nĩ<a>/nĩ<v><iv><sg>$
+^nỹ/nỹ<su>/nỹ<a>$
+^nỹtĩ/nỹtĩ<a>/nỹtĩ<v><iv>/nỹtĩ<v><iv><pl>$
+^pẽ/pẽ<mod>/pẽ<n>$
+^ra/ra<n>/ra<cir>$
+^re/re<n>/re<v><iv><pl>$
+^rán/rán<n>/rán<v><tv><sg>$
+^rã/rã<n>/rã<cir>/rã<v><iv>/rã<v><iv><sg>$
+^rãnhrãj/rãnhrãj<n>/rãnhrãj<v><iv>$
+^rĩnh mũ/rĩnh<v><tv><pl>/rĩnh mũ<v><tv><pl>$
+^rĩnh/rĩnh<v><tv><pl>/rĩnh<v><v2><tv>/rĩnh<v><tv>+$
+^rĩr/rĩr<v><iv>/rĩr<v><iv><sg>$
+^sa/sa<a>/sa<v><iv>$
+^se/se<n>/se<ij>/se<v><tv><sg>$
+^sir/sir<mod>/sir<o>$
+^sóg/sóg<n>/sóg<su>$
+^sór/sór<mod>/sór<n>/sór<want>$
+^te mũ/te<v><iv><pl>/te mũ<v><iv><pl>$
+^te tĩ/te<v><iv><sg>/te tĩ<v><iv><sg>$
+^ti/ti<prn>/ti<prn><p3><nf><sg>$
+^ti/ti<prn>/ti<prn><p3><nf><sg>$ b^olso/*olso$
+^ty/ty<n>/ty<v><iv>$
+^tá/tá<cir>$ b^ola/*ola$
+^tãnh/tãnh<n>/tãnh<v><tv>$
+^tãvĩn/tãvĩn<mod>/tãvĩn<v><tv>$
+^tó/tó<n>/tó<v><tv><sg>$
+^tógfĩn/tógfĩn<n>/tógfĩn<v><tv><sg>$
+^tũ/tũ<mod>/tũ<n>$
+^tỹ/tỹ<cir>/tỹ<su>$
+^ve/ve<mod>/ve<n>/ve<v><iv>/ve<v><iv><sg>/ve<v><tv><sg>$
+^vo/vo<n>/vo<v><iv>$
+^vãgvã/vãgvã<n>/vãgvã<v><iv>$
+^vãn/vãn<n>/vãn<v><tv><sg>$
+^vãnh/vãnh<mod>/vãnh<n>/vãnh<mod>+$
+^Ã/Ã<prn>/Ã<prn><p2><sg>$
+^Ãjag/Ãjag<prn>/Ãjag<prn><p2><pl>$
+^Ón/Ón<v><iv>/Ón<v><iv><sg>$
+^ã/ã<prn>/ã<prn><p2><sg>$
+^ãjag/ãjag<prn>/ãjag<prn><p2><pl>$
+^ón/ón<v><iv>/ón<v><iv><sg>$
+^Ũn/Ũn<prn>/Ũn<dem>/Ũn<prn><rel>$
+^ũn/ũn<prn>/ũn<dem>/ũn<prn><rel>$
+^Ẽmĩ/Ẽmĩ<n>/Ẽmĩ<v><iv>$
+^ẽkrénh/ẽkrénh<v><iv>/ẽkrénh<v><iv>+$
+^ẽmĩ/ẽmĩ<n>/ẽmĩ<v><iv>$

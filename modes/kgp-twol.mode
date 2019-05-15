@@ -1,0 +1,4 @@
+
+      
+    hfst-strings2fst -S| hfst-compose-intersect '/home/drosset1/ling073/ling073-kgp/.deps/kgp.twol.hfst' | hfst-fst2strings
+  

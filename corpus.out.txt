@@ -1,0 +1,685 @@
+"<Fi>"
+	"fi" prn
+	"fi" v tv sg
+	"fi" prn p3 f sg
+"<mré>"
+	"mré" cir
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<fi>"
+	"fi" prn
+	"fi" v tv sg
+	"fi" prn p3 f sg
+"<tóg>"
+	"tóg" su
+"<mén>"
+	"mén" v iv
+"<tĩ>"
+	"tĩ" a
+"<.>"
+	"." sent
+
+"<Ã>"
+	"ã" prn
+	"ã" prn p2 sg
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<ne>"
+	"ne" su
+	"ne" v tv sg
+"<jé>"
+	"jé" n
+	"jé" su
+"<rãnh ke>"
+	"rãnh ke" v iv sg
+"<tĩ>"
+	"tĩ" a
+"<nẽ>"
+	"nẽ" v tv
+’
+"<?>"
+	"?" sent
+
+"<Kejẽn>"
+	"kejẽn" cir
+"<ẽg>"
+	"ẽg" prn p1 pl
+"<tóg>"
+	"tóg" su
+"<róró>"
+	"róró" n
+"<kãmĩ>"
+	"kã mĩ" cir
+"<tĩg>"
+	"tĩg" v iv
+"<kỹ>"
+	"kỹ" conj
+"<kójógná>"
+	"kójógná" n
+"<vég>"
+	"*vég"
+"<tĩ>"
+	"tĩ" a
+"<.>"
+	"." sent
+
+"<Jãnka>"
+	"*Jãnka"
+"<nĩfe>"
+	"*nĩfe"
+"<róm>"
+	"róm" v tv sg
+"<ra>"
+	"ra" n
+	"ra" cir
+"<!>"
+	"!" sent
+
+"<Topẽ>"
+	"Topẽ" n
+	"topẽ" n
+"<vỹ>"
+	"vỹ" su
+"<rĩr>"
+	"rĩr" v iv
+	"rĩr" v iv sg
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<.>"
+	"." sent
+
+"<Ro>"
+	"ro" n
+"<vỹ>"
+	"vỹ" su
+"<gymũ>"
+	"gymũ" n
+"<jakrẽm>"
+	"jakrẽm" cir
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<.>"
+	"." sent
+"<Mỹg>"
+	"mỹg" n
+"<han>"
+	"han" v iv
+	"han" v iv sg
+"<ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<tĩ>"
+	"tĩ" a
+"<gé>"
+	"gé" mod
+	"gé" v tv pl
+"<,>"
+	"," cm
+"<jũ>"
+	"jũ" v iv sg
+"<ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<gé>"
+	"gé" mod
+	"gé" v tv pl
+"<.>"
+	"." sent
+
+"<Ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<rỹg>"
+	"rỹg" v tv sg
+"<sóg>"
+	"sóg" n
+	"sóg" su
+"<,>"
+	"," cm
+"<kỹ>"
+	"kỹ" conj
+"<tóg>"
+	"tóg" su
+"<iso>"
+	"*iso"
+"<jũ>"
+	"jũ" v iv sg
+"<mũ>"
+	"mũ" a
+	"mũ" v iv pl
+"<.>"
+	"." sent
+
+"<Jagnẽ>"
+	"jagnẽ" prn ref
+"<to>"
+	"to" cir
+"<ag>"
+	"ag" prn
+	"ag" prn p3 nf pl
+"<tóg>"
+	"tóg" su
+"<rỹgrỹg>"
+	"rỹgrỹg" v tv pl
+"<pẽ>"
+	"pẽ" mod
+	"pẽ" n
+"<han>"
+	"han" v iv
+	"han" v iv sg
+"<,>"
+	"," cm
+"<nén>"
+	"nén" n
+"<tũ>"
+	"tũ" mod
+	"tũ" n
+"<to>"
+	"to" cir
+"<.>"
+	"." sent
+
+"<Rỹj>"
+	"*Rỹj"
+"<kỹ>"
+	"kỹ" conj
+"<tóg>"
+	"tóg" su
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<,>"
+	"," cm
+"<kutẽ>"
+	"kutẽ" v iv sg
+"<kỹ>"
+	"kỹ" conj
+"<.>"
+	"." sent
+
+"<Isỹ>"
+	"isỹ" cir
+"<ver>"
+	"ver" cir
+"<inh>"
+	"inh" prn
+	"inh" prn p1 sg
+"<vãfy>"
+	"vãfy" n sg
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<rỹnh>"
+	"rỹnh" v tv sg
+"<kenh>"
+	"*kenh"
+"<ke>"
+	"ke" n
+	"ke" v iv
+"<.>"
+	"." sent
+
+"<Rỹnhrỹj>"
+	"rỹnhrỹj" n
+"<vóg>"
+	"vóg" v tv
+"<tũg>"
+	"tũg" v iv
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<,>"
+	"," cm
+"<ã>"
+	"ã" prn
+	"ã" prn p2 sg
+"<kanẽ>"
+	"kanẽ" n
+"<kin>"
+	"*kin"
+"<kutẽnh>"
+	"*kutẽnh"
+"<mũ>"
+	"mũ" a
+	"mũ" v iv pl
+"<!>"
+	"!" sent
+
+"<Re>"
+	"re" n
+	"re" v iv pl
+"<kãmĩ>"
+	"kã mĩ" cir
+"<ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<sor>"
+	"sor" n
+"<tĩ>"
+	"tĩ" a
+"<.>"
+	"." sent
+
+"<Ã>"
+	"ã" prn
+	"ã" prn p2 sg
+"<hã>"
+	"hã" o
+"<mỹ>"
+	"mỹ" cir
+"<sóg>"
+	"sóg" n
+	"sóg" su
+"<tónh>"
+	"tónh" v tv
+"<ke>"
+	"ke" n
+	"ke" v iv
+"<mũ>"
+	"mũ" a
+	"mũ" v iv pl
+"<.>"
+	"." sent
+
+"<Mỹg>"
+	"mỹg" n
+"<sóg>"
+	"sóg" n
+	"sóg" su
+"<vég>"
+	"*vég"
+"<ẽg>"
+	"ẽg" prn p1 pl
+"<tóg>"
+	"tóg" su
+"<tĩ>"
+	"tĩ" a
+"<,>"
+	"," cm
+"<ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<me>"
+	"*me"
+"<jagtã>"
+	"*jagtã"
+"<ki>"
+	"ki" cir
+"<.>"
+	"." sent
+
+"<Garĩnh>"
+	"garĩnh" n
+"<krẽ>"
+	"krẽ" n
+"<sóg>"
+	"sóg" n
+	"sóg" su
+"<ko>"
+	"ko" v tv
+"<ẽg>"
+	"ẽg" prn p1 pl
+"<tóg>"
+	"tóg" su
+"<tĩ>"
+	"tĩ" a
+"<.>"
+	"." sent
+
+"<Sóghi>"
+	"sóghi" n
+"<tóg>"
+	"tóg" su
+"<sá>"
+	"sá" mod
+"<nĩgtĩ>"
+	"nĩgtĩ" a
+"<.>"
+	"." sent
+
+"<Sukrĩg jógo>"
+	"sukrĩg jógo" n
+"<vóg>"
+	"vóg" v tv
+"<sóg>"
+	"sóg" n
+	"sóg" su
+"<.>"
+	"." sent
+
+"<Ẽg>"
+	"ẽg" prn p1 pl
+"<jógjóg>"
+	"*jógjóg"
+"<ag>"
+	"ag" prn
+	"ag" prn p3 nf pl
+"<vỹ>"
+	"vỹ" su
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<,>"
+	"," cm
+"<ẽg>"
+	"ẽg" prn p1 pl
+"<jo>"
+	"jo" cir
+	"jo" conj
+"<ke>"
+	"ke" n
+	"ke" v iv
+"<ag>"
+	"ag" prn
+	"ag" prn p3 nf pl
+"<nỹtĩ>"
+	"nỹtĩ" a
+	"nỹtĩ" v iv
+	"nỹtĩ" v iv pl
+"<.>"
+	"." sent
+
+"<Jókynh>"
+	"*Jókynh"
+"<vỹ>"
+	"vỹ" su
+"<,>"
+	"," cm
+"<vãfár>"
+	"vãfár" n
+"<hã>"
+	"hã" o
+"<krẽm>"
+	"krẽm" cir
+"<e>"
+	"e" mod
+	"e" v iv
+"<tĩgtĩ>"
+	"tĩgtĩ" a
+"<.>"
+	"." sent
+
+"<Rã>"
+	"rã" n
+	"rã" cir
+	"rã" v iv
+	"rã" v iv sg
+"<vỹ>"
+	"vỹ" su
+"<,>"
+	"," cm
+"<jur>"
+	"jur" v iv
+"<mũ>"
+	"mũ" a
+	"mũ" v iv pl
+"<ha>"
+	"ha" mod
+"<.>"
+	"." sent
+
+"<Inh>"
+	"inh" prn
+	"inh" prn p1 sg
+"<jo>"
+	"jo" cir
+	"jo" conj
+"<tĩg>"
+	"tĩg" v iv
+"<!>"
+	"!" sent
+
+"<Ã>"
+	"ã" prn
+	"ã" prn p2 sg
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<ã>"
+	"ã" prn
+	"ã" prn p2 sg
+"<jykre fi mãn>"
+	"jykre fi mãn" v tv
+"<kỹ>"
+	"kỹ" conj
+"<pã’i>"
+	"pã’i" n
+"<tóg>"
+	"tóg" su
+"<,>"
+	"," cm
+"<ã>"
+	"ã" prn
+	"ã" prn p2 sg
+"<vóg kónãn>"
+	"vóg kónãn" v tv
+"<mãn>"
+	"mãn" mod
+	"mãn" v tv sg
+"<ke>"
+	"ke" n
+	"ke" v iv
+"<tũ>"
+	"tũ" mod
+	"tũ" n
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<.>"
+	"." sent
+
+"<Jymi>"
+	"jymi" n
+"<féj>"
+	"*féj"
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<ẽg>"
+	"ẽg" prn p1 pl
+"<tóg>"
+	"tóg" su
+"<,>"
+	"," cm
+"<vẽnh kagta>"
+	"vẽnh kagta" n
+"<han>"
+	"han" v iv
+	"han" v iv sg
+"<tĩ>"
+	"tĩ" a
+"<.>"
+	"." sent
+
+"<Inh>"
+	"inh" prn
+	"inh" prn p1 sg
+"<kósin>"
+	"kósin" n
+"<kuténh>"
+	"*kuténh"
+"<ke>"
+	"ke" n
+	"ke" v iv
+"<mũ ra>"
+	"mũ ra" conj
+"<sóg>"
+	"sóg" n
+	"sóg" su
+"<,>"
+	"," cm
+"<ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<jynmỹ>"
+	"jynmỹ" cir
+"<ti>"
+	"ti" prn
+	"ti" prn p3 nf sg
+"<kãgmĩg>"
+	"*kãgmĩg"
+"<mũ>"
+	"mũ" a
+	"mũ" v iv pl
+"<.>"
+	"." sent
+
+"<Kaga>"
+	"*Kaga"
+"<inh>"
+	"inh" prn
+	"inh" prn p1 sg
+"<nỹ nĩ>"
+	"nỹ nĩ" a
+"<.>"
+	"." sent
+
+"<Kurã>"
+	"kurã" n
+"<ẽn>"
+	"ẽn" prn dem
+"<kã>"
+	"kã" cir
+"<ẽg>"
+	"ẽg" prn p1 pl
+"<kar>"
+	"kar" n
+"<vỹ>"
+	"vỹ" su
+"<,>"
+	"," cm
+"<jagnẽ>"
+	"jagnẽ" prn ref
+"<mré>"
+	"mré" cir
+"<kanẽ junjur>"
+	"kanẽ junjur" v iv pl
+"<ja>"
+	"ja" mod
+"<nĩ>"
+	"nĩ" n
+	"nĩ" a
+	"nĩ" v iv sg
+"<.>"
+	"." sent
+
+"<Kanẽ jur>"
+	"kanẽ jur" v iv sg
+"<inh>"
+	"inh" prn
+	"inh" prn p1 sg
+"<,>"
+	"," cm
+"<kóhon>"
+	"kóhon" v iv
+"<kỹ>"
+	"kỹ" conj
+"<.>"
+	"." sent
+
+"<Janẽra>"
+	"janẽra" n
+"<ũ>"
+	"ũ" prn
+"<jiji>"
+	"*jiji"
+"<hã>"
+	"hã" o
+"<vỹ>"
+	"vỹ" su
+"<:>"
+	":" sent
+"<kanẽ>"
+	"kanẽ" n
+"<nor>"
+	"*nor"
+"<,>"
+	"," cm
+"<he>"
+	"he" ij
+	"he" v tv
+"<mũ>"
+	"mũ" a
+	"mũ" v iv pl
+"<gé>"
+	"gé" mod
+	"gé" v tv pl
+"<.>"
+	"." sent
+
+"<Kejẽn>"
+	"kejẽn" cir
+"<,>"
+	"," cm
+"<ta>"
+	"ta" n
+"<tỹ>"
+	"tỹ" cir
+	"tỹ" su
+	"tỹ" ex
+	"tỹ" erg
+	"tỹ" top
+"<kãnhmar>"
+	"kãnhmar" cir
+"<kutẽnh>"
+	"*kutẽnh"
+"<ken>"
+	"ken" v tv
+"<kỹ>"
+	"kỹ" conj
+"<,>"
+	"," cm
+"<krĩg>"
+	"krĩg" n
+"<ag>"
+	"ag" prn
+	"ag" prn p3 nf pl
+"<tóg>"
+	"tóg" su
+"<migmig>"
+	"*migmig"
+"<ke>"
+	"ke" n
+	"ke" v iv
+"<tĩ>"
+	"tĩ" a
+"<..>"
+	".." sent
+
+
+

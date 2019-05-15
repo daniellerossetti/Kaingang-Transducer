@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary>
+  <alphabet/>
+
+  <sdefs>
+    <sdef n="n" c="Noun"/>
+  </sdefs>
+
+  <pardefs>
+    <pardef n="vocals">
+      <e> <i>a</i> </e>
+      <e> <i>e</i> </e>
+      <e> <i>i</i> </e>
+      <e> <i>o</i> </e>
+      <e> <i>u</i> </e>
+
+    </pardef>
+
+    <pardef n="first_word_in_combination">
+        <e> <i>vẽnh</i> </e>
+        <e> <i>inh</i>  </e>
+    </pardef>
+
+    <pardef n="second_word_in_combination">
+        <e><i>tũ<b/>  </i></e>
+        <e><i>japỹ<b/>  </i></e>
+        <e><i>sĩ<b/>  </i></e>
+        <e><i>se<b/>  </i></e>
+        <e><i>tỹ<b/>  </i></e>
+    </pardef>
+
+    <pardef n="deletingnasal">
+      <e> <i>nh</i> </e>
+    </pardef>
+
+    <pardef n="voiceless">
+      <e> <i>j</i> </e>
+      <e> <i>s</i> </e>
+    </pardef>
+
+    <pardef n="voicelessChanges">
+      <e> <i>j</i> </e>
+      <e> <i>s</i> </e>
+    </pardef>
+
+  </pardefs>
+
+  <section id="main" type="standard">
+    <!-- Define entries within <e> here. See http://wiki.apertium.org/wiki/Post-generator for more information.-->
+    <e><p><l><a/>nh<b/></l> <r></r></p><par n="voiceless"/></e>
+    <e><p><l><a/>nh<b/>t</l> <r>s</r></p></e>
+
+  </section>
+</dictionary>

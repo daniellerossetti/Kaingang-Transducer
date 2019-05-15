@@ -1,0 +1,4 @@
+
+      
+    lt-proc -g '/home/drosset1/ling073/ling073-kgp/kgp.autogen.bin' | lt-proc -p '/home/drosset1/ling073/ling073-kgp/kgp.autopgen.bin' 
+  

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modes>
+
+  <mode name="kgp-twol" install="yes">
+    <pipeline>
+      <program name="hfst-strings2fst -S"/>
+      <program name="hfst-compose-intersect">
+        <file name=".deps/kgp.twol.hfst"/>
+      </program>
+      <program name="hfst-fst2strings"/>
+    </pipeline>
+  </mode>
+
+  <mode name="kgp-morph" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kgp.automorf.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kgp-lexc" install="yes">
+    <pipeline>
+      <program name="hfst-lookup">
+        <file name=".deps/kgp.LR.lexc.hfst"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kgp-gener" install="yes">
+    <pipeline>
+      <program name="lt-proc -g">
+        <file name="kgp.autogen.bin"/>
+      </program>
+      <program name="lt-proc -p">
+        <file name="kgp.autopgen.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kgp-tagger" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kgp.automorf.bin"/>
+      </program>
+      <program name="cg-proc -w">
+        <file name="kgp.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+  <mode name="kgp-disam" install="yes">
+    <pipeline>
+      <program name="lt-proc -w">
+        <file name="kgp.automorf.bin"/>
+      </program>
+      <program name="cg-conv -a"/>
+      <program name="vislcg3 --trace --grammar">
+        <file name="kgp.rlx.bin"/>
+      </program>
+    </pipeline>
+  </mode>
+
+</modes>

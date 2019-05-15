@@ -1,0 +1,243 @@
+Config:
+  hfst:
+    App: hfst-lookup
+    Gen: ../kgp.autogen.hfst
+    Morph: ../kgp.automorf.hfst
+Tests:
+  Aspect Markers: {}
+  Aspect Markers/Indicators of Mode: {}
+  Conjunctions:
+    ge ra<cc>:
+    - ge ra
+    hã jé<cc>:
+    - hã jé
+    hã kato<cc>:
+    - hã kato
+    hã kỹ<cc>:
+    - hã kỹ
+    hã ra<cc>:
+    - hã ra
+    hã ri<cc>:
+    - hã ri
+    hã to<cc>:
+    - hã to
+    hã tugrĩn<cc>:
+    - hã tugrĩn
+    hã tỹ<cc>:
+    - hã tỹ
+    jarĩnmỹ<cc>:
+    - jarĩnmỹ
+    jo<cc>:
+    - jo
+    jãvo<cc>:
+    - jãvo
+    kỹ<cc>:
+    - kỹ
+    mũ ra<cc>:
+    - mũ ra
+    mỹr’<cc>:
+    - mỹr’
+  Demonstrative Pronouns:
+    tag<prn><dem><prx><f><pl>:
+    - tag fag
+    tag<prn><dem><prx><f><sg>:
+    - tag fi
+    tag<prn><dem><prx><nf><pl>:
+    - tag ag
+    tag<prn><dem><prx><nf><sg>:
+    - tag ti
+    tã<prn><dem><dst><f><pl>:
+    - tã fag
+    tã<prn><dem><dst><f><sg>:
+    - tã fi
+    tã<prn><dem><dst><nf><pl>:
+    - tã ag
+    tã<prn><dem><dst><nf><sg>:
+    - tã ti
+  Follows only verbs (Adverb):
+    e<adv><adv1>:
+    - e
+    kren<adv><adv1>:
+    - kren
+    kónãn<adv><adv1>:
+    - kónãn
+    mãn<adv><adv1>:
+    - mãn
+    rén<adv><adv1>:
+    - rén
+    sór<adv><adv1>:
+    - sór
+    tãvĩn<adv><adv1>:
+    - tãvĩn
+    vãnh<adv><adv1>:
+    - vãnh
+    vén<adv><adv1>:
+    - vén
+  Follows verbs, nouns, and other modality markers:
+    gy<adv><adv2>:
+    - gy
+    ja<adv><adv2>:
+    - ja
+    jãvãnh<adv><adv2>:
+    - jãvãnh
+    mé<adv><adv2>:
+    - mé
+    mẽ<adv><adv2>:
+    - mẽ
+    pẽ<adv><adv2>:
+    - pẽ
+    tãvĩ<adv><adv2>:
+    - tãvĩ
+    tũ<adv><adv2>:
+    - tũ
+    ve<adv><adv2>:
+    - ve
+  Indefinite Pronouns: {}
+  Interjections:
+    he<ij>:
+    - he
+    hẽ’<ij>:
+    - hẽ’
+    hỹ<ij>:
+    - hỹ
+    kunĩg<ij>:
+    - kunĩg
+    kuri<ij>:
+    - kuri
+    kutĩg<ij>:
+    - kutĩg
+    mũ jé ha<ij>:
+    - mũ jé ha
+    mẽ’<ij>:
+    - mẽ’
+    nejé<ij>:
+    - nejé
+    se<ij>:
+    - se
+    té<ij>:
+    - té
+    tón ra<ij>:
+    - tón ra
+    vãrỹ<ij>:
+    - vãrỹ
+    vó<ij>:
+    - vó
+  Interrogative Pronouns: {}
+  Markers: {}
+  Modality Markers/Indicators of Opinion:
+    ge<mod>:
+    - ge
+    gé<mod>:
+    - gé
+    ha<mod>:
+    - ha
+    hur<mod>:
+    - hur
+    huri<mod>:
+    - huri
+    hã<mod>:
+    - hã
+    hẽ<mod>:
+    - hẽ
+    hẽ’<mod>:
+    - hẽ’
+    hỹn<mod>:
+    - hỹn
+    inhhã<mod>:
+    - inhhã
+    ker<mod>:
+    - ker
+    kur<mod>:
+    - kur
+    mỹr<mod>:
+    - mỹr
+    nẽji<mod>:
+    - nẽji
+    sir<mod>:
+    - sir
+  Noun Markers: {}
+  Nouns:
+    jynhkén<n><def>:
+    - jynhkén
+    jynhkén<n><ind>:
+    - jynhkén ũ
+    kẽnkẽr<n><acc>:
+    - kẽnkẽr tỹ
+    kẽnkẽr<n><agent>:
+    - kẽnkẽr tỹ
+    kẽnkẽr<n><nom>:
+    - kẽnkẽr vỹ
+  Perfective Aspect Markers:
+    jẽ<v><bas><iv>:
+    - jẽ
+    jẽ<v><bas><iv><hab>:
+    - jẽgtĩ
+    jẽ<v><bas><iv><hab>:
+    - jẽ tĩ
+    jẽ<v><bas><iv><sit>:
+    - jẽ nĩ
+  Personal Pronouns:
+    ag<prn><p3><nf><pl>:
+    - ag
+    fag<prn><p3><f><pl>:
+    - fag
+    fi<prn><p3><f><sg>:
+    - fi
+    inh<prn><p1><sg>:
+    - inh
+    ti<prn><p3><nf><sg>:
+    - ti
+    ã<prn><p2><sg>:
+    - ã
+    ãjag<prn><p2><pl>:
+    - ãjag
+    ẽ<prn><p1><pl>:
+    - ẽ
+  Pronouns: {}
+  Reflexive Pronouns: {}
+  Relative Pronouns: {}
+  Singular and Plural:
+    rĩnh<v><bas><tv>:
+    - rĩnh
+    rĩnh<v><bas><tv><pl>:
+    - rĩnh mũ
+    rĩnh<v><bas><tv><sg>:
+    - rĩnh tĩ
+    te<v><bas><iv>:
+    - te
+    te<v><bas><iv><pl>:
+    - te mũ
+    te<v><bas><iv><sg>:
+    - te tĩ
+  Verbs:
+    a'a'ke<v><bas><iv><hab>:
+    - a'a'ke tĩ
+    fyn<v><bas><tv>:
+    - fyn
+    fãn<v><bas><iv>:
+    - fãn
+    fãn<v><v1><iv>:
+    - fã
+    fãn<v><v2><iv>:
+    - fa
+    fãn<v><v3><iv>:
+    - fãg
+    jé prẽr<v><bas><tv>:
+    - jé prẽr
+    kanãn<v><bas><tv><want>:
+    - kanãn sór
+    rãnhrãj<v><bas><iv><sit>:
+    - rãnhrãj nĩ
+    rĩnh<v><bas><tv>:
+    - rĩnh
+    rĩnh<v><v1><tv>:
+    - rĩ
+    rĩnh<v><v2><tv>:
+    - rĩnh
+    rĩnh<v><v3><tv>:
+    - rĩg
+    ēgfãn<v><bas><iv><want>:
+    - ēgfãn sór
+    ẽkrénh<v><bas><iv>:
+    - ẽkrénh
+  Vocatives: {}

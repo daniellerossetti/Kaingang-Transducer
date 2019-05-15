@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/drosset1/ling073/ling073-kgp/kgp.automorf.bin' | cg-conv -a| vislcg3 --trace --grammar '/home/drosset1/ling073/ling073-kgp/kgp.rlx.bin' 
+  

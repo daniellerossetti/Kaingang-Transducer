@@ -1,0 +1,44 @@
+Alphabet
+ A Á Ã B C Ç D E É Ẽ F G H I Ĩ J K L M N O Ó Õ P Q R S T U Ũ V W Y Ỹ Z ’
+ a á ã b c ç d e é ẽ f g h i ĩ j k l m n o ó õ p q r s t u ũ v w y ỹ z
+ %{A%}:a %>:0
+
+ !%{n%}:n %{h%}:h
+ %{n%}:0 %{h%}:0
+ % :%  % :0           ! space
+ ;
+
+Sets
+
+Vowel = A Á Ã E É Ẽ I Ĩ O Ó U Ũ Ỹ
+        a á ã e é ẽ i ĩ o ó u ũ ỹ;
+Voiceless = S T P K J
+            s t p k j;
+ChangeAfterNH = S T J
+                s t j;
+
+Rules
+
+"testing rule"
+a:a <=> _ ;
+
+!"Remove n when h, space, and j follow it"
+!%{n%}:0 <=> _ %{h%}: % : ChangeAfterNH: ;
+
+!"Remove h when space and j follow it"
+!%{h%}:0 <=> _ % : ChangeAfterNH: ;
+
+!"Remove space after {n}{h}"
+!% :0 <=> %{n%}: %{h%}: _ ChangeAfterNH: ;
+
+!"Replace t with s when it follows nh and space"
+!t:s <=> %{n%}: %{h%}: % :  _ ;
+
+!@ i:i {n}:0 {h}:0 " :0" j:j é:é
+
+! Resources:
+! http://wiki.apertium.org/wiki/Starting_a_new_language_with_HFST#Enter_twol
+! https://kitwiki.csc.fi/twiki/bin/view/KitWiki/HfstHome
+! https://github.com/hfst/
+! http://wiki.apertium.org/wiki/Twol
+! http://wiki.apertium.org/wiki/Hfst

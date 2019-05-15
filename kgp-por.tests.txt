@@ -1,0 +1,7 @@
+Error: Mode kgp-por does not exist. Try one of:
+  kgp-disam
+  kgp-gener
+  kgp-lexc
+  kgp-morph
+  kgp-tagger
+  kgp-twol

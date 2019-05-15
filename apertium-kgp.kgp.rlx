@@ -1,0 +1,136 @@
+# Firstly, we need to define what tags should be considered sentence delimiters. For this example, only full stop is set as delimiter.
+DELIMITERS = "<.>" ;
+
+LIST TOPE = "Topẽ" ;
+LIST TOG = "tóg" ;
+LIST RAKE = "rãké" ;
+LIST SOG = "sóg" ;
+
+# We can define sets for common tag clusters
+LIST Case = (n s) (n p) ; # A set that matches either a Noun Singular or a Noun Plural
+
+SECTION
+# he is "yes" or "to say". if he is followed or preceded by a subject maker, interjection.
+REMOVE (ij) IF (1 (su)) ;
+# Remove subject marker meanings if there are already other unambiguous subj markers no frase.
+REMOVE (su) IF (4* (su)) ;
+REMOVE (su) IF (-3* (su))
+REMOVE (v) IF (1 (su)) ;
+REMOVE (cir) IF (-1 (mod)) ;
+REMOVE (su) IF (1 (sent)) ;
+REMOVE (v iv) IF (-1 (prn)) ;
+REMOVE (v iv) IF (-1 (n)) ;
+REMOVE (v tv) IF (-1 (erg)) ;
+REMOVE (v) IF (-1 (v)) ;
+REMOVE (v tv) IF (-1 (o)) ;
+REMOVE (n) IF (-1 (o)) ;
+REMOVE (cir) IF (-1 (v)) ;
+
+# If Topẽ in the sentence, return noun of jé. Otherwise, subject.
+#SELECT (n) IF (-4* TOPE) ;
+#SELECT (s) IF (2 (v)) ;
+
+#If mỹ in the sentence, return circumstance marker of mỹ, unless another subj marker is present
+#SELECT (cir) IF (4* (subj)) ;
+#SELECT (cir) IF (-4* (subj)) ;
+
+# If Tóg in the sentence, return aspect marker of nĩ. Otherwise, noun.
+#SELECT (a) IF (-5* TOG) ;
+#SELECT (n) IF (-1 (n)) ;
+#SELECT (v) IF (1 (a)) ;
+
+#If nĩ at end of the sentence, return ASPECT
+#SELECT (a) IF (1 (sent)) ;
+
+#If ra is after a verb, return Aspect
+#SELECT (a) IF (1 (sent)) ;
+#SELECT (n) IF (1 (cir)) ;
+
+#If ve is followed by aspect marker, return the intransitive verb
+#SELECT (v iv) IF (1 (a)) ;
+
+#If fi is followed by a subject marker, return the pronoun
+#SELECT (prn) IF (1 (subj)) ;
+
+#If sóg is preceded by krẽ, then return dependent noun "yolk/gema" meaning
+#SELECT (n dep) IF (-1 SOG) ;
+
+#If nỹtĩ is proceded by modal, than return Verb
+#SELECT (v) IF (1 (mod)) ;
+
+#Possible future rules:
+# 1. If mỹ is in a sentence that ends with a question mark, then choose the subject marker reading. If not, choose the postposition
+# 2. tũ is a marker meaning "not" or it is "his/her/their stuff".
+
+# ag - (pr pes) eles / (pr dem) os
+# ã -
+# ãjag -
+# e - (mod) muito / (v iv) fazer, causar
+# eg -
+# ẽmĩ - (n) pao de milho / (v iv) tatear, apalpar
+# fa - (n) perna, planta, amargo / (v tv sg) lavar roupa
+# fag - (pr pes) elas / (pr dem) as
+# fi - (pr pes) ela / (pr dem) a
+# ge - (mod) entao, tambem / (n) semelhante / (v iv) fazer igual
+# gé - (mod) tambem / (v tv pl) levar, carregar
+# gunhgunh - (n) picao preto / (v tv pl) fincar
+# han - (v iv sg) sarar, melhorar / (v tv sg) fazer
+# he - (ij) sim / (v tv) dizer
+# hur - (o) ja / (v iv sg) caimbra
+# hỹn - (o) de certo, provavelmente / (int) onde?
+# inh -
+# jãn -
+# jãvãnh - (mod) recusar, nao saber fazer / (v tv sg) esperar, procurar
+# jé - (su) futuro / (n) reza, hino
+# jẽn -
+# jo - (conj) entao / (cir) antes, na frente
+# jũn - (n) palmito / (v tv) embrabecer
+# kafãn -
+# ke - (n) sobra, resto / (v iv) futuro, fazer, dizer
+# ker - (o) cuidado / (n) presente de comida, cama de barbante de urtiga
+# kre - (n) balaio, coxa / (v tv pl) cortar, ceifar
+# kren - (mod) quase / (v iv sg) escapar / (v tv sg) perder
+# krenkren - (v iv pl) escapar / (v tv pl) perder
+# kur - (o) ligeiro, rapido! / (n) roupa, vestido
+# mé - (mod) fazer diariamente, ligeiro, gostar de fazer / (n) carneiro
+# mẽ - (mod) muito, ligeiro / (v tv sg) cheirar, escutar, sentir, tocar
+# mro - (v iv sg) tomar banho / (v tv sg) por de molho
+# mũ - (a) fazendo, narrativo, acao unica, consequencia / (v iv pl) andar
+# mỹ - (cir) para / (su) pergunta
+# mỹr - (o) verdadeiro, e certo / (conj) ?
+# ne - (su) originador / (v tv sg) enterrar / (n) enterrado / de / (int) o que?
+# nẽ - (a) sera que? / (v tv) cobrir encostado
+# nig - (n) lagoa, poco / (v tv sg) dar pontape
+# nĩ - (a) na situacao de, sentado, ter, ter a obrigacao, condicao / (n) carne / (v iv sg) sentar
+# nỹ - (a) deitado / (su) topico na pergunta / (n) mae, irma da mae / (v iv sg) deitar-se
+# nỹtĩ - (a) sendo, ter / (v iv pl) existir
+# ón - not ambiguous actually
+# pẽ - (mod) muito, o verdadeiro / (n) braco
+# ra - (cir) para, na direcao de, apesar de / (n) queixo / (a) faca ja!
+# rã - (cir) perto, por baixo de / (n) sol, maduro / (v iv sg) entrar, comecar, estar perto de
+# rán - (n) encosta, declive, barranco, subida, perau / (v tv sg) escrever
+# rãké - (v iv) chegando tarde / tarde ?
+# rãnhrãj - (n) trabalho / (v tv pl) trabalhar
+# re - (n) grama, campo, fora de casa / (v iv) encher-se de bebida / (v iv pl) descer
+# sa - (a) pendurado / (n) sal, cachoeira / (v iv) pendurado / (v tv) pendurar, pregar
+# se - (n) quati / (v tv sg) amarrar, prender / (ij) puxa!
+# tãnh - (n) morador, dono / (v iv) fazer forte, habituar-se
+# ti - (pr pes) ele / (pr dem) o
+# to - not ambiguous?
+# tógfĩn - (n) gaviao / (v tv sg) atar, amarrar
+# tũ - not ambiguous?
+# tỹ - (cir) com, por / (erg) / (ex) / (top)
+# ũn - not ambiguous
+# vãn - (n) taquara / (v tv sg) carregar coisa comprida
+# vãnh - (mod) nao querer ou poder fazer algo / (n) capoeira, mato, plantas curtas
+# ve - (n) aparencia, natureza, irma de um homem, primeiro / (v iv sg) parecer ser / (v tv sg) ver, enxergar
+# vo - (v iv) barulho de andar no mato, coracao batendo / (n) macuco
+# vỹ - (su) topico / (o) sera que e? / (voc) homem! moco!
+
+
+# Resources:
+# http://visl.sdu.dk/cg3.html
+# http://groups.google.com/group/constraint-grammar
+# http://kevindonnelly.org.uk/2010/05/constraint-grammar-tutorial/
+# http://wiki.apertium.org/wiki/Constraint_Grammar
+# http://wiki.apertium.org/wiki/Apertium_and_Constraint_Grammar

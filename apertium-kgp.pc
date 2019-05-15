@@ -1,0 +1,8 @@
+prefix=/usr/local
+exec_prefix=${prefix}
+srcdir=${prefix}/share/apertium/apertium-kgp
+
+Name: apertium-kgp
+Description: Finite-state morphological transducer and constraint grammar for kgp 
+Version: 0.1.0
+
